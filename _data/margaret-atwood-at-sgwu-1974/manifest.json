@@ -30,6 +30,12 @@
             "id": "https://bethanycayeradcliff.github.io/margaret-atwood-spokenweb/margaret-atwood-at-sgwu-1974/canvas-1/canvas/MargaretAtwood1974.json",
             "label": "MargaretAtwood1974"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/margaret-atwood-spokenweb/margaret-atwood-at-sgwu-1974/canvas-1/canvas/testing_csv.json",
+            "label": "testing_csv"
+          }
         ],
         "items": [
           {
